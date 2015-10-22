@@ -1,14 +1,12 @@
 body{
 	text-align: center;
-	color: #000;
-	background: <img src="images/ihartimage.jpg">;
-	background-size:cover;
+	background: <img src="images/ihartimage.jpg";
+	background-size: cover;
 }
 h1{
 	color: #fff;
 	font-family: Arial, sans-serif;
-	font-size:24px
-	font-weight:normal
+	font-size: 24px
 	 }
 hr{
 	width: 400px;
