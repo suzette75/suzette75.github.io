@@ -14,3 +14,7 @@ hr{
 #slogan{
 	font-style: italics;
 }
+ul {
+    text-align: center;
+    list-style-type: none;
+}
