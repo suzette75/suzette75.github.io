@@ -1,4 +1,18 @@
 body{
-	background: <img src="ihartimage.jpg">;
+	text-align: center;
+	color: #000;
+	background: <img src="images/ihartimage.jpg">;
 	background-size:cover;
+}
+h1{
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size:24px
+	font-weight:normal
+	 }
+hr{
+	width: 400px;
+}
+#slogan{
+	font-style: italics;
 }
