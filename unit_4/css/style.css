@@ -1,4 +1,5 @@
-
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 body{
 	text-align: center;
 	background-image: url(images/ihartimage.jpg);
@@ -19,16 +20,22 @@ h1{
 hr{
 	width: 400px;
 }
+.navlinks{
+	padding: 15px;
+	text-align: right;
+}
 #slogan{
-	font-style: italics;
+	font-style: italic;
+}
+#description{
+	font-family: 'Libre Baskerville', serif;
 }
 ul {
     text-align: center;
     list-style-type: none;
 }
-.navlinks{
-	padding: 15px;
-}
+
 .services{
-	
+	font-family: 'Open Sans', sans-serif;
+
 }
