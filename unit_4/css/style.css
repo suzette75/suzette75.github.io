@@ -1,8 +1,16 @@
+
 body{
 	text-align: center;
 	background-image: url(images/ihartimage.jpg);
 	background-size: cover;
 }
+header{
+
+}
+nav{
+
+}
+
 h1{
 	color: #fff;
 	font-family: Arial, sans-serif;
@@ -17,4 +25,10 @@ hr{
 ul {
     text-align: center;
     list-style-type: none;
+}
+.navlinks{
+	padding: 15px;
+}
+.services{
+	
 }
