@@ -1,45 +1,39 @@
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+* { margin:0; padding:0; box-sizing:border-box; }
 body{
-	text-align: center;
 	color: rgb(30,30,30);
-	background-image: url(images/ihartimage.jpg);
+	background-image: url(../images/ihartimage.jpg);
 	background-size: cover;
+	background-repeat:no-repeat;
+	font-size:16px;
+	font-family: 'Open Sans', sans-serif;
 }
 header{
 
 }
 nav{
 }
-
 h1{
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size: 24px
-	 }
+	font-size: 1.5em;
+}
 hr{
-	width: 400px;
+	width: 25em;
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+a {
+	color:inherit;
 }
 .navlinks{
-	padding: 15px;
+	padding: 1em;
 	text-align: right;
-}
-#slogan{
-	font-family: 'Open Sans', sans-serif;
-	color: rgb(30,30,30);
 }
 #description{
 	font-family: 'Libre Baskerville', serif;
-	font-size: 16px;
-	color: rgb(30,30,30);
 }
-ul {
-    text-align: center;
-    list-style-type: none;
-}
-
 .services{
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
-	line-height: 2.0em;
+	margin-top:1em;
 }
