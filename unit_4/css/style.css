@@ -27,10 +27,12 @@ hr{
 }
 #slogan{
 	font-family: 'Open Sans', sans-serif;
+	color: rgb(30,30,30);
 }
 #description{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
+	color: rgb(30,30,30);
 }
 ul {
     text-align: center;
@@ -39,5 +41,5 @@ ul {
 
 .services{
 	font-family: 'Libre Baskerville', serif;
-
+	font-size: 16px;
 }
