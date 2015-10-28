@@ -28,7 +28,8 @@ hr{
 	font-style: italic;
 }
 #description{
-	font-family: 'Libre Baskerville', serif;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
 }
 ul {
     text-align: center;
@@ -36,6 +37,6 @@ ul {
 }
 
 .services{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
 
 }
