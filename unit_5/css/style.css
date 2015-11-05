@@ -4,15 +4,28 @@
 body{
 	color: rgb(30,30,30);
 	background-image: url(../images/#.jpg);
-	background-size: cover;
-	background-repeat:no-repeat;
 	font-size:16px;
 	font-family: 'Open Sans', sans-serif;
 }
 header{
-
+	background-color: #ffed74
+	border:1px black solid;
+	padding: 20px;
 }
 nav{
+	background-color:#e8c66a
+}
+section{
+	background-color:#ffe2b8
+}
+aside{
+	background-color:#ffc675
+}
+article{
+	background-color:#e89c6c
+}
+footer{
+	background-color:#ff957e
 }
 h1{
 	font-size: 1.5em;
@@ -31,8 +44,12 @@ a {
 	padding: 1em;
 	text-align: right;
 }
+.picture{
+	background-color:
+}
 #description{
 	font-family: 'Libre Baskerville', serif;
+	background-color:
 }
 .services{
 	margin-top:1em;
